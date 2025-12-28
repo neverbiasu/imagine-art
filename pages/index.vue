@@ -27,14 +27,32 @@
       <div class="max-w-7xl mx-auto px-6">
         <h2 class="text-2xl font-bold text-gray-800 mb-8">精选案例</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
-          <div class="rounded-lg overflow-hidden shadow-lg transition-all hover:shadow-xl hover:-translate-y-1">
-            <img src="/images/examples/response1.png" alt="案例1" class="w-full h-[300px] object-cover">
+          <div
+            class="rounded-lg overflow-hidden shadow-lg transition-all hover:shadow-xl hover:-translate-y-1"
+          >
+            <img
+              src="/images/examples/response1.png"
+              alt="案例1"
+              class="w-full h-[300px] object-cover"
+            />
           </div>
-          <div class="rounded-lg overflow-hidden shadow-lg transition-all hover:shadow-xl hover:-translate-y-1">
-            <img src="/images/examples/response2.png" alt="案例2" class="w-full h-[300px] object-cover">
+          <div
+            class="rounded-lg overflow-hidden shadow-lg transition-all hover:shadow-xl hover:-translate-y-1"
+          >
+            <img
+              src="/images/examples/response2.png"
+              alt="案例2"
+              class="w-full h-[300px] object-cover"
+            />
           </div>
-          <div class="rounded-lg overflow-hidden shadow-lg transition-all hover:shadow-xl hover:-translate-y-1">
-            <img src="/images/examples/response3.png" alt="案例3" class="w-full h-[300px] object-cover">
+          <div
+            class="rounded-lg overflow-hidden shadow-lg transition-all hover:shadow-xl hover:-translate-y-1"
+          >
+            <img
+              src="/images/examples/response3.png"
+              alt="案例3"
+              class="w-full h-[300px] object-cover"
+            />
           </div>
         </div>
       </div>
